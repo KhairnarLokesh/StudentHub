@@ -4,9 +4,7 @@ This project is an intelligent, secure, and college-exclusive web platform desig
 
 Type: Web Application
 
-Level: Final Year / Major Mini Project
-
-Domain: Web Development, Artificial Intelligence
+Domain: Web Development, Artificial Intelligence(onlty api integration)
 
 Target Users: College Students
 
